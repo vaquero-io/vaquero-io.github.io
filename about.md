@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Vaquero is an extensible vm provisioning and bootstrap automation tool for
+managing the multiple servers, roles, and environments that make up a typical
+continuous delivery architectural design for a web based
+software-as-a-service application.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Vaquero is in early stages of active, heavy development, and our goal is to
+be able to target any cloud provider. Current work is focussing on provisioning
+through vCenter Orchestrator, driving custom vCO Workflows and a vCAC/vRA
+Blueprint. Planned work also includes provisioning against vSphere (without
+vCAC/vRA), as well as cloud providers (likely via the Fog library).
