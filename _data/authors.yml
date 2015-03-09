@@ -1,20 +1,17 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
+gkra:
+  name: Gregory Ruiz-Ade
+  email:
+  bio: "Sysadmin turned automation specialist"
+  avatar: http://1.gravatar.com/avatar/c0e2a07d5dbbbe8b3c1f508727ca7370
+  twitter: gkra
+  github: gkra
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+ncheneweth:
+  name: Nic Cheneweth
+  email:
+  bio:
+  avatar:
+  twitter:
+  github: ncheneweth
