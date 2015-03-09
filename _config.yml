@@ -3,7 +3,7 @@ title: Vaquero - Drive your Cloud Cattle
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Vaquero is a tool to rapidly, repeatabily and reliably create your
-  virtual machines from simple definiton files.
+  cloud instances from simple definiton files.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: vaquero_io
