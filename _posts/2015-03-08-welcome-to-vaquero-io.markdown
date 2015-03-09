@@ -2,7 +2,16 @@
 layout: post
 title:  "Welcome to Vaquero!"
 date:   2015-03-08 19:41
+modified:
+# author: gkra
 categories: update
+tags: []
+excerpt: "Vaquero is a tool that lets you rapidly, repeatably and reliably generate your
+application's virtual infrastructure from a simple set of definition files."
+# image:
+#   feature: sample-image-5.jpg
+#   credit: WeGraphics
+#   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 Hello! Welcome to Vaquero.io!
 

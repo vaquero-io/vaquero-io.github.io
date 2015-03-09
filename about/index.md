@@ -1,7 +1,12 @@
 ---
 layout: page
-title: About
+title: About Vaquero
 permalink: /about/
+tags: [about]
+# image:
+#   feature: sample-image-2.jpg
+#   credit: WeGraphics
+#   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Vaquero is an extensible vm provisioning and bootstrap automation tool for

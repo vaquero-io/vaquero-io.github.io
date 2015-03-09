@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Posts
+  url: /posts/
+
+- title: Getting Started
+  url: /getting_started/
+
+- title: Github
+  url: https://github.com/vaquero-io
