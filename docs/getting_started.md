@@ -9,7 +9,7 @@ The no-nonsense guide to getting started with Vaquero.
 ## Installation
 Vaquero is distributed as a ruby gem. Installation is as simple as:
 
-    $ gem install cloud_vaquero
+    $ gem install vaquero_io
 
 ## [Plugins](plugins.html)
 Vaquero requires a plugin to be installed in order to actually do anything. Right now, there's only a single plugin in development, `vaquero-plugin-vcoworkflow`, but development is also underway for a straight vSphere plugin as well.
