@@ -40,7 +40,7 @@ This will create a set of files:
 The `platform.yml` file is where you outline the basic structure of your application.
 
     platform:
-      provider: putenv-vcoworkflow
+      provider: vaquero-plugin-vcoworkflow
       plugin_version: 0.1.0
       product: myplatform
       environments:
@@ -77,7 +77,7 @@ Once the platform definition is written, you need to create environment definiti
 
     qa1:
       product: myplatform
-      provider: putenv-vcoworkflow
+      provider: vaquero-plugin-vcoworkflow
       plugin_version: 0.1.0
       environment: qa1
       pools:
